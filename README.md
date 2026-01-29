@@ -22,7 +22,7 @@ Eu sou o David, um programador iniciante que estuda na FATEC zona leste, espero 
 </div>
 
 # Status Gerais:
-<div>
+<div style="display: inline_block" align="center"><br>
 <a href="https://github.com/seu-usuário-aqui">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Augusto-Fagoni&layout=compact&langs_count=7&theme=dracula"/>
 </div>
